@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is task of DIC in Lesson"Ruby on Rails 入門シリーズ演習1【お問い合わせ機能を実装する】"
 
-Things you may want to cover:
+<hr>
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+build an web server --- rails s -b $IP -p $PORT
+start postgreSQL  --- sudo service posgresql start 
+access new page --- on brouser "/contact/new"
+and post messages on your posrpose
